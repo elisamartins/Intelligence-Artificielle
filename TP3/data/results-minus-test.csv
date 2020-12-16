@@ -8,7 +8,7 @@ idx,status
 6,phishing
 7,phishing
 8,legitimate
-9,phishing
+9,legitimate
 10,phishing
 11,phishing
 12,phishing
@@ -49,7 +49,7 @@ idx,status
 47,legitimate
 48,phishing
 49,phishing
-50,phishing
+50,legitimate
 51,phishing
 52,legitimate
 53,legitimate
@@ -69,7 +69,7 @@ idx,status
 67,phishing
 68,legitimate
 69,phishing
-70,phishing
+70,legitimate
 71,legitimate
 72,legitimate
 73,phishing
