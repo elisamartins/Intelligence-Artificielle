@@ -1,0 +1,25 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-code",
+      "appliesTo": "code/code.py",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-code",
+      "appliesTo": "code/",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-code",
+      "appliesTo": "code/code.py",
+      "type": "launch"
+    },
+    {
+      "taskLabel": "task-train",
+      "appliesTo": "data/train.csv",
+      "type": "launch"
+    }
+  ]
+}
